@@ -1,0 +1,11 @@
+{
+  "org": "langchain-ai",
+  "repo": "langchain-google",
+  "versions": [
+    {
+      "commit": "4d0b214207bf5a8c7eaae49d193dc2787b8229ef",
+      "tag": "",
+      "parsed_at": "2026-11-08T01:02:00.116096+00:00"
+    }
+  ]
+}
